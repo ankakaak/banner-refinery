@@ -1,0 +1,29 @@
+
+/* ===================================================================
+   SETTINGS
+   =================================================================== */
+
+// Font family
+$font-family:                       'Open Sans', sans-serif;
+
+// Font sizes
+$fontSize-normal:                   14px;
+
+// Font weight
+$fontWeight-regular:                400;
+
+//Neutral variations of dark
+$color--dark-100:					rgba(0, 0, 0, 0.85); 
+$color--dark-60:					rgba(0, 0, 0, 0.55); 
+
+
+//Base colors and contrasts
+$color--base:						rgb(245, 246, 247);
+$color--base-contrast-100:			$color--dark-100;
+$color--base-contrast-60:			$color--dark-60;
+
+//Accent color and contast
+$color--accent:						rgb(56, 205, 140);
+$color--accent-hover:   			rgb(67, 243, 166);
+
+$color--feedback-red:				rgb(255, 84, 81);

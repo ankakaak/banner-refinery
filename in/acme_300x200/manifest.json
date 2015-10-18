@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "title": "This will be overridden by the message in the folder name",
+  "description": "Some manifest description",
+  "width": "This will be overridden by the dimension in the folder name",
+  "height": "This will be overridden by the dimension in the folder name",
+  "clicktags": {
+    "clickTAG": "https://isitchristmas.com/"
+  },
+  "source": "This will be overridden by a html file in this folder"
+}

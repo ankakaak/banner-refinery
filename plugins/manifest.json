@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "title": "",
+  "description": "",
+  "width": "",
+  "height": "",
+  "events": {
+    "enabled": 1,
+    "list": {}
+  },
+  "clicktags": {
+    "clickTAG": "https://isitchristmas.com/"
+  },
+  "source": "index.html"
+}
